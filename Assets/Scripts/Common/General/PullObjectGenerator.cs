@@ -12,7 +12,7 @@ public class PullObjectGenerator : MonoBehaviour
             for (int i = 0; i < objectCountInPull; i++)
             {
                 GameObject obj;
-                obj = Instantiate(spawnObject, new Vector3(0, 0, 0), new Quaternion(0, -180, 0, 0));
+                obj = Instantiate(spawnObject, new Vector3(0, 0, 0), Quaternion.identity);
                 _pullObject.Add(obj);
                 obj.SetActive(false);
             }

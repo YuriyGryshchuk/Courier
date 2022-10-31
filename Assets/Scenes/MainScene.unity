@@ -1901,7 +1901,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _platforms:
-  - {fileID: 4693327256331607055, guid: 43139299796b1bf48bdaf6baa5160630, type: 3}
+  - {fileID: 8959589905407837264, guid: a1ac378ea28728744bff76739e7a1045, type: 3}
   _startPlaformCount: 5
   _platformCountInPull: 10
   _startPlatformSpeed: 3
