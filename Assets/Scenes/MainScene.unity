@@ -1902,6 +1902,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _platforms:
   - {fileID: 8959589905407837264, guid: a1ac378ea28728744bff76739e7a1045, type: 3}
+  - {fileID: 4519437795517791111, guid: b21c32b6103e94a498b2812444b950de, type: 3}
+  - {fileID: 4519437795517791111, guid: b21c32b6103e94a498b2812444b950de, type: 3}
+  - {fileID: 4519437795517791111, guid: b21c32b6103e94a498b2812444b950de, type: 3}
+  - {fileID: 3903607102230636217, guid: 4f5d6e68496a71d4bb12e8df9745a01c, type: 3}
   _startPlaformCount: 5
   _platformCountInPull: 10
   _startPlatformSpeed: 3
